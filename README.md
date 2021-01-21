@@ -1,5 +1,8 @@
 # Northwinds
 
+## View without setup
+open index in dist folder
+
 ## Project setup
 ```
 npm install
