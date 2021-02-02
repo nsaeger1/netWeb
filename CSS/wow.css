@@ -1,0 +1,20 @@
+h1 {
+    font-family: 'Londrina Shadow';
+    color: slategray;
+    font-size: 3.5em;
+}
+
+body {
+    font-family: 'Questrial';
+}
+h1.animated {
+    display: inline-block;
+}
+.ball{
+    visibility: hidden;
+}
+.toast {
+    position: absolute;
+    top: 65px;
+    right: 10px;
+}
